@@ -4,6 +4,18 @@
 
 Este guia detalha como configurar e gerenciar tarefas usando arquivos JavaScript no projeto. Siga as instruções abaixo para criar e configurar seu arquivo de tarefas.
 
+## Adicionando novo membro no `loadTasks.js`
+
+No arquivo **scripts/loadTasks.js** adicione seu-nome na constante "teamMembers", não esqueça da vírgula ao fim do penúltimo item da lista, antes de inserir o seu-nome. Exemplo:
+
+```javascript
+const teamMembers = [
+    'kelson-almeida', 
+    'victor-almeida',
+    'fulano-silva'
+]; 
+```
+
 ## Estrutura de Diretórios
 
 1. **Navegue até o diretório `db`** no projeto.
