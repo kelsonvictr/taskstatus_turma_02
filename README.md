@@ -4,6 +4,17 @@
 
 Este guia detalha como configurar e gerenciar tarefas usando arquivos JavaScript no projeto. Siga as instruções abaixo para criar e configurar seu arquivo de tarefas.
 
+## Clone do projeto ou pull
+Caso você já tenha o projeto na sua máquina, apenas faça checkout na main:
+```git
+git checkout origin/main
+```
+
+ Caso ainda não tenha o projeto:
+ ```git
+git clone https://github.com/kelsonvictr/taskstatus_turma_02.git
+```
+
 ## Adicionando novo membro no `loadTasks.js`
 
 No arquivo **scripts/loadTasks.js** adicione seu-nome na constante "teamMembers", não esqueça da vírgula ao fim do penúltimo item da lista, antes de inserir o seu-nome. Exemplo:
