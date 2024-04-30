@@ -30,7 +30,7 @@ const teamMembers = [
 ## Estrutura de Diretórios
 
 1. **Navegue até o diretório `db`** no projeto.
-2. **Crie uma nova pasta** com seu nome. Por exemplo: `kelson-almeida`.
+2. **Crie uma nova pasta** com seu nome. Por exemplo: `kelson-almeida`. (A pasta tem que ter exatamente o mesmo nome que foi indicado na lista "teamMembers").
 3. Dentro da sua pasta nomeada, **crie um arquivo chamado `tasks.js`**.
 
 ## Configurando seu Arquivo `tasks.js`
