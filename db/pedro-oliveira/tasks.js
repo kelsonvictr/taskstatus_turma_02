@@ -16,5 +16,11 @@ var pedro_oliveira_tasks = [
         "description": "Estudar sobre as principais estruturas de dados ",
         "responsible": "Pedro Oliveira",
         "status": "backlog"
+    },
+    {
+        "name": "Desafio Site de Restaurante",
+        "description": "Desenvolver um Website de restaurante",
+        "responsible": "Pedro Oliveira",
+        "status": "backlog"
     }
 ]
