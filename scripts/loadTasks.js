@@ -1,10 +1,7 @@
 const teamMembers = [
     'kelson-almeida', 
-    'victor-almeida',
-    'fulano-silva',
     'pedro-oliveira',
     'caroline-andrade',
-    'andre-pereira',
     'pablo-miranda',
     'artur-lucas', 
     'jucymara-lacet'
