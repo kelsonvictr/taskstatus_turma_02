@@ -2,6 +2,10 @@
 
 ## Introdução
 
+Site do board: https://kelsonvictr.github.io/taskstatus_turma_02/
+
+Tutorial de como atualizar: https://www.youtube.com/watch?v=Ed6VSSeoEcc&t=8s
+
 Este guia detalha como configurar e gerenciar tarefas usando arquivos JavaScript no projeto. Siga as instruções abaixo para criar e configurar seu arquivo de tarefas.
 
 ## Clone do projeto ou pull
