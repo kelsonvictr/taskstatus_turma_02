@@ -5,6 +5,7 @@ const teamMembers = [
     'pedro-oliveira',
     'caroline-andrade',
     'andre-pereira',
+    'pablo-miranda',
     'artur-lucas', 
     'jucymara-lacet'
 ]; 
