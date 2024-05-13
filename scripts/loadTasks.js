@@ -5,7 +5,8 @@ const teamMembers = [
     'pedro-oliveira',
     'caroline-andrade',
     'andre-pereira',
-    'artur-lucas'
+    'artur-lucas', 
+    'jucymara-lacet'
 ]; 
 
 teamMembers.forEach(member => {
