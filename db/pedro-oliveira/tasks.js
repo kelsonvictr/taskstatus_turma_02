@@ -22,5 +22,11 @@ var pedro_oliveira_tasks = [
         "description": "Desenvolver um Website de restaurante",
         "responsible": "Pedro Oliveira",
         "status": "backlog"
+    },
+    {
+        "name": "Desafio do CV",
+        "description": "Melhor o cv feito na aula01",
+        "responsible": "Pedro Oliveira",
+        "status": "in_progress"
     }
 ]
