@@ -27,6 +27,6 @@ var pedro_oliveira_tasks = [
         "name": "Desafio do CV",
         "description": "Melhor o cv feito na aula01",
         "responsible": "Pedro Oliveira",
-        "status": "in_progress"
+        "status": "concluded"
     }
 ]
