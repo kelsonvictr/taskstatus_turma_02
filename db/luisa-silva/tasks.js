@@ -18,8 +18,20 @@ var luisa_silva_tasks = [
         "status": "concluded"
     },
     {
+        "name": "Projeto Currículo",
+        "description": "Ajustando projeto da aula 01",
+        "responsible": "Luisa Silva",
+        "status": "concluded"
+    },
+    {
         "name": "Curso de React",
         "description": "React: desenvolvendo com JavaScript",
+        "responsible": "Luisa Silva",
+        "status": "backlog"
+    },
+    {
+        "name": "Curso de Linux",
+        "description": "Estudar o básico da plataforma",
         "responsible": "Luisa Silva",
         "status": "backlog"
     }
