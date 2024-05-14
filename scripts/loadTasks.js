@@ -5,8 +5,9 @@ const teamMembers = [
     'pablo-miranda',
     'artur-lucas', 
     'jucymara-lacet',
-    'daniela-barreto'
-]; 
+    'daniela-barreto',
+    'luisa-silva'
+];
 
 teamMembers.forEach(member => {
     const script = document.createElement('script');
