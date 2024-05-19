@@ -10,11 +10,10 @@ const teamMembers = [
     'tatiane-fontes',
     'brasimar-henrique',
     'luiz-reis',
-<<<<<<< HEAD
     'thiago-andrade',
-=======
     'alik-breno',
->>>>>>> bea1fa92573b674583363e2d53bcb135e406ae0a
+    'sarah-bichler'
+
 ];
 
 teamMembers.forEach(member => {
