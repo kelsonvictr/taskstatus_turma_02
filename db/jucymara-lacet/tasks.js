@@ -9,12 +9,12 @@ var jucymara_lacet_tasks = [
         "name": "Desafio Currículo",
         "description": "Desafio Currículo da Aula 01",
         "responsible": "Jucymara Lacet",
-        "status": "in_progress"
+        "status": "concluded"
     },
     {
         "name": "Desafio Landing Page Restaurante",
         "description": "Desafio landing page restaurante - Aula 01",
         "responsible": "Jucymara Lacet",
-        "status": "in_progress"
+        "status": "concluded"
     },
 ];
