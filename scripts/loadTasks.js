@@ -10,6 +10,7 @@ const teamMembers = [
     'tatiane-fontes',
     'brasimar-henrique',
     'luiz-reis',
+    'thiago-andrade',
     'alik-breno',
     'sarah-bichler'
 ];
