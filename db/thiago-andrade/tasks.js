@@ -15,7 +15,7 @@ var thiago_andrade_tasks = [
         "name": "Desafio site de  Restaurante",
         "description": "Desafio site de restaurante - Aula 01",
         "responsible": "Thiago Andrade",
-        "status": "in_progress"
+        "status": "conclued"
     },
     {
         "name": "Estudar HTML e CSS",
