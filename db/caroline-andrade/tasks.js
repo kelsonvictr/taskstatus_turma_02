@@ -8,7 +8,14 @@ var caroline_andrade_tasks = [
 
     {
         "name": "Desafio Currículo",
-        "description": "Fazer um currículo utilizando HTML5 e CSS3",
+        "description": "Fazer um currículo utilizando HTML5 e CSS3.",
+        "responsible": "Caroline Andrade",
+        "status": "concluded"
+    },
+
+    {
+        "name": "Desafio Site Restaurante",
+        "description": "Fazer um site fictício de um restaurante ou lanchonete",
         "responsible": "Caroline Andrade",
         "status": "concluded"
     }
