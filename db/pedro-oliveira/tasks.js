@@ -25,8 +25,14 @@ var pedro_oliveira_tasks = [
     },
     {
         "name": "Desafio do CV",
-        "description": "Melhor o cv feito na aula01",
+        "description": "Melhorar o cv feito na aula01",
         "responsible": "Pedro Oliveira",
         "status": "concluded"
+    },
+    {
+        "name": "Fazer Deploy na Vercel",
+        "description": "Fazer deploy do desafio do site do restaurante na vercel",
+        "responsible": "Pedro Oliveira",
+        "status": "backlog"
     }
 ]
