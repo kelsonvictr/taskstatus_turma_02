@@ -3,7 +3,7 @@ var daniela_barreto_tasks = [
         "name": "Estudar Git/GitHub",
         "description": "Treinar comandos git fazendo exemplos práticos",
         "responsible": "Daniela Barrêto",
-        "status": "in_progress"
+        "status": "concluded"
     },
     {
         "name": "Aula 01: Fazer desafio do CV",
@@ -15,6 +15,6 @@ var daniela_barreto_tasks = [
         "name": "Aula 01: Fazer desafio do site de um restaurante/lanchonete",
         "description": "Criar um site para um restaurante ou lanchonete (real ou ficticio)",
         "responsible": "Daniela Barrêto",
-        "status": "backlog"
+        "status": "concluded"
     }
 ];
