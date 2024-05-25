@@ -1,7 +1,7 @@
 var jackeline_pereira_tasks = [
     {
-        "name": "Estudos de lógica de Programação com JS",
-        "description": "Playlist Lógica de Programação com JS",
+        "name": "Estudar Git/Github ",
+        "description": "Estudar sobre git/github",
         "responsible": "Jackeline Pereira",
         "status": "in_progress"
     },
@@ -15,6 +15,6 @@ var jackeline_pereira_tasks = [
         "name": "Desafio Landing Page Restaurante",
         "description": "Desafio landing page restaurante - Aula 01",
         "responsible": "Jackeline Pereira",
-        "status": "in_progress"
+        "status": "concluded"
     },
 ];
