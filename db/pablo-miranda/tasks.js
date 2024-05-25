@@ -23,4 +23,10 @@ var pablo_miranda_tasks = [
         "responsible": "Pablo Miranda",
         "status": "in_progress"
     },
+    {
+        "name": "Deploy Vercel",
+        "description": "Realizar deploy da landing page no Vercel",
+        "responsible": "Pablo Miranda",
+        "status": "concluded"
+    },
 ];
