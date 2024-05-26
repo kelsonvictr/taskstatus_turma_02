@@ -12,9 +12,9 @@ var jackeline_pereira_tasks = [
         "status": "in_progress"
     },
     {
-        "name": "Desafio Landing Page Restaurante",
+        "name": "Desafio site restaurante",
         "description": "Desafio landing page restaurante - Aula 01",
         "responsible": "Jackeline Pereira",
-        "status": "in_progress"
+        "status": "concluded"
     },
 ];
