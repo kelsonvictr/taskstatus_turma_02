@@ -1,7 +1,7 @@
 var jackeline_pereira_tasks = [
     {
         "name": "Estudar Git/Github ",
-        "description": "Estudar sobre git/github",
+        "description": "Trilha de git/github ",
         "responsible": "Jackeline Pereira",
         "status": "in_progress"
     },
