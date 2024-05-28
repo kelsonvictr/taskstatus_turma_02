@@ -3,7 +3,7 @@ var tatiane_fontes_tasks = [
         "name": "Praticar Git/Github ",
         "description": "Usar o Github praticando os comandos mais utilizados",
         "responsible": "Tatiane Fontes",
-        "status": "backlog"
+        "status": "in-progress"
     },
     {
         "name": "Desafio Currículo",
@@ -13,8 +13,14 @@ var tatiane_fontes_tasks = [
     },
     {
         "name": "Desafio Landing Page Restaurante",
-        "description": "Desenvolver um site de restaurante apenas com CSS e HTML",
+        "description": "Site de restaurante apenas com CSS e HTML",
         "responsible": "Tatiane Fontes",
-        "status": "in_progress"
-    }
+        "status": "Concluded"
+    },
+    {
+        "name": "Deploy - Vercel",
+        "description": "Deploy do Site de restaurante usando Vercel ",
+        "responsible": "Tatiane Fontes",
+        "status": "Concluded"
+    },
 ];
