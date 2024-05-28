@@ -7,26 +7,21 @@ var tatiane_fontes_tasks = [
     },
     {
         "name": "Desafio Currículo",
-        "description": "Desenvolver um Currículo utilizando apenas CSS e HTML",
+        "description": "Desenvolver um Currículo utilizando apenas CSS e HTML e  gravar explicação no OBS",
         "responsible": "Tatiane Fontes",
-        "status": "in_progress"
+        "status": "Concluded"
     },
     {
         "name": "Fazer deploy do site restaurante",
         "description": "Deploy com a ferramenta vercel",
         "responsible": "Tatiane Fontes",
-        "status": "in_progress"
+        "status": "Concluded"
     },
     {
         "name": "Desafio Landing Page Restaurante",
-        "description": "Site de restaurante criado com CSS e HTML",
+        "description": "Criar site de restaurante com CSS e HTML e  gravar explicação no OBS",
         "responsible": "Tatiane Fontes",
         "status": "concluded"
     },
-    {
-        "name": "Gravar com OBS explicação da Landing Page Restaurante",
-        "description": "Gravar com OBS explicação do site",
-        "responsible": "Tatiane Fontes",
-        "status": "backlog"
-    },
+    
 ];
