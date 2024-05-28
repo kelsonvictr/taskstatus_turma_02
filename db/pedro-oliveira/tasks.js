@@ -33,6 +33,6 @@ var pedro_oliveira_tasks = [
         "name": "Fazer Deploy na Vercel",
         "description": "Fazer deploy do desafio do site do restaurante na vercel",
         "responsible": "Pedro Oliveira",
-        "status": "backlog"
+        "status": "concluded"
     }
 ]
