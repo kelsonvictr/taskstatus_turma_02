@@ -7,9 +7,9 @@ var tatiane_fontes_tasks = [
     },
     {
         "name": "Desafio Currículo",
-        "description": "Desenvolver um Currículo utilizando apenas CSS e HTML",
+        "description": "Modificações no Currículo utilizando apenas CSS e HTML",
         "responsible": "Tatiane Fontes",
-        "status": "in_progress"
+        "status": "concluded"
     },
     {
         "name": "Desafio Landing Page Restaurante",
