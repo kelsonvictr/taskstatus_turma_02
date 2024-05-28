@@ -14,7 +14,8 @@ const teamMembers = [
     'alik-breno',
     'sarah-bichler',
     'jackeline-pereira',
-    'giordano-ferreira'
+    'giordano-ferreira',
+    'priscilla-almeida'
 ];
 
 teamMembers.forEach(member => {
