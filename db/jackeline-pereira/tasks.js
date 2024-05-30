@@ -6,6 +6,12 @@ var jackeline_pereira_tasks = [
         "status": "in_progress"
     },
     {
+        "name": "Inglês",
+        "description": "Estudar inglês",
+        "responsible": "Jackeline Pereira",
+        "status": "backlog"
+    },
+    {
         "name": "Desafio Currículo",
         "description": "Desafio Currículo da Aula 01",
         "responsible": "Jackeline Pereira",
