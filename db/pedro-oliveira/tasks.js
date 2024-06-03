@@ -34,5 +34,11 @@ var pedro_oliveira_tasks = [
         "description": "Fazer deploy do desafio do site do restaurante na vercel",
         "responsible": "Pedro Oliveira",
         "status": "concluded"
+    },
+    {
+        "name": "Exercicios de JS",
+        "description": "Fazer 70 dos 150 exercicios propostos pelo professor",
+        "responsible": "Pedro Oliveira",
+        "status": "in_progress"
     }
 ]
