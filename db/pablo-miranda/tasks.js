@@ -15,7 +15,13 @@ var pablo_miranda_tasks = [
         "name": "Lógica de Programação",
         "description": "Rever noções de Lógica de Programação para a próxima aula",
         "responsible": "Pablo Miranda",
-        "status": "in_progress"
+        "status": "concluded"
+    },
+    {
+        "name": "Deploy Vercel",
+        "description": "Realizar deploy da landing page no Vercel",
+        "responsible": "Pablo Miranda",
+        "status": "concluded"
     },
     {
         "name": "Lógica de Programação com JavaScript",
@@ -24,9 +30,15 @@ var pablo_miranda_tasks = [
         "status": "in_progress"
     },
     {
-        "name": "Deploy Vercel",
-        "description": "Realizar deploy da landing page no Vercel",
+        "name": "Desafio 100 Exercícios JS",
+        "description": "Realizar a lista de exercícios de JS puro. Repo: https://github.com/pgdemiranda/curso_fullstack_desafios/tree/main/02_js",
         "responsible": "Pablo Miranda",
-        "status": "concluded"
+        "status": "in_progress"
+    },
+    {
+        "name": "Desafio 50 Exercícios DOM",
+        "description": "Realizar a lista de exercícios de DOM com JS",
+        "responsible": "Pablo Miranda",
+        "status": "backlog"
     },
 ];
