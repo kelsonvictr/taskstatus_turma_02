@@ -31,7 +31,7 @@ var pablo_miranda_tasks = [
     },
     {
         "name": "Desafio 100 Exercícios JS",
-        "description": "Realizar a lista de exercícios de JS puro",
+        "description": "Realizar a lista de exercícios de JS puro. Repo: https://github.com/pgdemiranda/curso_fullstack_desafios/tree/main/02_js",
         "responsible": "Pablo Miranda",
         "status": "in_progress"
     },
