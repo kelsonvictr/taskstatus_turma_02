@@ -1,7 +1,7 @@
 var jucymara_lacet_tasks = [
     {
-        "name": "Estudos de lógica de Programação com JS",
-        "description": "Playlist Lógica de Programação com JS",
+        "name": "Desafio 100 exercícios JS",
+        "description": "Desafio de exercícios em JS + DOM. Aula 02. Repositório: https://github.com/jucylacet/curso-fullstack-desafios/tree/main/desafio-100-exercicios-js",
         "responsible": "Jucymara Lacet",
         "status": "in_progress"
     },
