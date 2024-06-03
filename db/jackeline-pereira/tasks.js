@@ -9,7 +9,7 @@ var jackeline_pereira_tasks = [
         "name": "Desafio Currículo",
         "description": "Desafio Currículo da Aula 01",
         "responsible": "Jackeline Pereira",
-        "status": "in_progress"
+        "status": "concluded"
     },
     {
         "name": "Desafio site Restaurante",
