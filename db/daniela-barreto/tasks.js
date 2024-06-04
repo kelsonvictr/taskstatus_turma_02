@@ -16,5 +16,11 @@ var daniela_barreto_tasks = [
         "description": "Criar um site para um restaurante ou lanchonete (real ou ficticio)",
         "responsible": "Daniela Barrêto",
         "status": "concluded"
+    },
+    {
+        "name": "Aula 01: Fazer desafio hospedar site do restaurante/lanchonete",
+        "description": "Fazer deploy do site na vercel",
+        "responsible": "Daniela Barrêto",
+        "status": "concluded"
     }
 ];
