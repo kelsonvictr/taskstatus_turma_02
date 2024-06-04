@@ -22,5 +22,11 @@ var daniela_barreto_tasks = [
         "description": "Fazer deploy do site na vercel",
         "responsible": "Daniela Barrêto",
         "status": "concluded"
+    },
+    {
+        "name": "Aula 02: Fazer exercícios de javascript",
+        "description": "Fazer 70 exercícios da lista; repositório: https://github.com/a-danielabarreto/exercicios-js",
+        "responsible": "Daniela Barrêto",
+        "status": "in-progress"
     }
 ];
