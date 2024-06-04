@@ -5,6 +5,13 @@ var tatiane_fontes_tasks = [
         "responsible": "Tatiane Fontes",
         "status": "backlog"
     },   
+    {
+        "name": "100 exercícios JS / DOM ",
+        "description": "Resolver 70 questões com JS puro e 30 com manipulação da DOM",
+        "repository":"https://github.com/thathy23/100_exercicios_JS_DOM.git",
+        "responsible": "Tatiane Fontes",
+        "status": "in-progress"
+    },
     
     {
         "name": "Praticando Git/Github ",
