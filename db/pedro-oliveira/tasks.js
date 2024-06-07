@@ -37,7 +37,7 @@ var pedro_oliveira_tasks = [
     },
     {
         "name": "Exercicios de JS",
-        "description": "Fazer 70 dos 150 exercicios propostos pelo professor",
+        "description": "Fazer 70 dos 150 exercicios propostos pelo professor. repositório: https://github.com/pedrodoliveiraa/curso-fullstack-desafios/tree/main/exerciciojs",
         "responsible": "Pedro Oliveira",
         "status": "in_progress"
     }
