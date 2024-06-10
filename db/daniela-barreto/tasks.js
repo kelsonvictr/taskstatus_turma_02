@@ -27,6 +27,6 @@ var daniela_barreto_tasks = [
         "name": "Aula 02: Fazer exercícios de javascript",
         "description": "Fazer 70 exercícios da lista; repositório: https://github.com/a-danielabarreto/exercicios-js",
         "responsible": "Daniela Barrêto",
-        "status": "in-progress"
+        "status": "in_progress"
     }
 ];
