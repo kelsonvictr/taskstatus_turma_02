@@ -19,8 +19,7 @@ var luiz_gonzaga_tasks = [
     },
     {
         "name": "150 Exercicios JS / DOM",
-        "description": "Resolução dos exercicos de Javascript / DOM .",
-        "repository" : "https://github.com/Luizribeiro05/100_exercicios_js",
+        "description": "Resolução dos exercicos de Javascript / DOM . Repositório: https://github.com/Luizribeiro05/100_exercicios_js",
         "responsible": "Luiz Gonzaga",
         "status": "in_progress"
     }
