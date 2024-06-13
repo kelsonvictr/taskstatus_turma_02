@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.dev-info {
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    display: inline-block;
+}
+
+.board {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.column {
+    width: 30%;
+    background-color: #e2e4e6;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.column h2 {
+    text-align: center;
+    color: #333;
+}
+
+.card {
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.task, .description, .responsible {
+    margin-bottom: 5px;
+}
+
+.task {
+    font-weight: bold;
+}
+
+.description {
+    color: #555;
+}
+
+.responsible {
+    font-style: italic;
+}
+
