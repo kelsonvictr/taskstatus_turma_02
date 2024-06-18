@@ -24,14 +24,14 @@ var pablo_miranda_tasks = [
         "status": "concluded"
     },
     {
-        "name": "Lógica de Programação com JavaScript",
-        "description": "Aplicar as noções adquiridas com o curso de Lógica de Programação à JavaScript",
-        "responsible": "Pablo Miranda",
-        "status": "in_progress"
-    },
-    {
         "name": "Desafio 100 Exercícios JS",
         "description": "Realizar a lista de exercícios de JS puro. Repo: https://github.com/pgdemiranda/curso_fullstack_desafios/tree/main/02_js",
+        "responsible": "Pablo Miranda",
+        "status": "concluded"
+    },
+    {
+        "name": "Lógica de Programação com JavaScript",
+        "description": "Aplicar as noções adquiridas com o curso de Lógica de Programação à JavaScript",
         "responsible": "Pablo Miranda",
         "status": "in_progress"
     },
@@ -39,6 +39,12 @@ var pablo_miranda_tasks = [
         "name": "Desafio 50 Exercícios DOM",
         "description": "Realizar a lista de exercícios de DOM com JS",
         "responsible": "Pablo Miranda",
-        "status": "backlog"
+        "status": "in_progress"
     },
+    {
+        "name": "Desafio React",
+        "description": "Treinar React: com referências, depois com consulta e, por fim, sem consulta. Repo: https://github.com/pgdemiranda/react_fullstack",
+        "responsible": "Pablo Miranda",
+        "status": "in_progress"
+    }
 ];
