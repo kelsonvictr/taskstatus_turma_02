@@ -3,7 +3,7 @@ var pedro_oliveira_tasks = [
         "name": "Curso de Java",
         "description": "CURSO: Java COMPLETO Programação Orientada a Objetos + Projetos (Nelio Alves - UDEMY) ",
         "responsible": "Pedro Oliveira",
-        "status": "in_progress"
+        "status": "concluded"
     },
     {
         "name": "Curso de Inglês",
@@ -39,6 +39,6 @@ var pedro_oliveira_tasks = [
         "name": "Exercicios de JS",
         "description": "Fazer 70 dos 150 exercicios propostos pelo professor. repositório: https://github.com/pedrodoliveiraa/curso-fullstack-desafios/tree/main/exerciciojs",
         "responsible": "Pedro Oliveira",
-        "status": "in_progress"
+        "status": "concluded"
     }
 ]
