@@ -28,5 +28,10 @@ var daniela_barreto_tasks = [
         "description": "Fazer 70 exercícios da lista; repositório: https://github.com/a-danielabarreto/exercicios-js",
         "responsible": "Daniela Barrêto",
         "status": "in_progress"
+    },
+    {
+        "name": "Aula 03: Fazer vídeo explicativo",
+        "description": "Fazer vídeo das atividades feitas na aula 03; repositório: ",
+        "status": "backlog"
     }
 ];
